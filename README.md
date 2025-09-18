@@ -93,9 +93,3 @@ npm run dev
 ```
 
 ---
-
-## Contact
-
-Created by [@sumitattri](https://github.com/Sumiattri)  
-📧 Email: sumitattri165@gmail.com  
-🔗 LinkedIn: (https://www.linkedin.com/in/sumit-attri-3147b9257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
