@@ -2,8 +2,6 @@
 
 A visually immersive, animated, and scroll-synced **Apple-inspired 3D product website** built with **React**, **Tailwind CSS**, and **GSAP ScrollTrigger**. Experience a smooth, responsive, and premium product page clone with animated transitions and 3D showcase sections.
 
-🔗 **Live Demo:** [3d-apple-website-plum.vercel.app](https://3d-apple-website-plum.vercel.app)
-
 ---
 
 ## ✨ Features
@@ -82,14 +80,3 @@ A visually immersive, animated, and scroll-synced **Apple-inspired 3D product we
 ├── eslint.config.js
 └── README.md
 ```
-
-## 🔧 Installation
-
-```bash
-git clone https://github.com/Sumiattri/3d_apple_website.git
-cd 3d_apple_website
-npm install
-npm run dev
-```
-
----
